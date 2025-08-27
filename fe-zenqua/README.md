@@ -30,7 +30,7 @@ It fetches deals from a backend API (`/api/deals`) and organizes them by status 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/anurag2169/zenqua-task.git
 ```
 
 ```bash

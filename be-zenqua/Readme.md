@@ -23,7 +23,7 @@ It does not use any database — all data is stored in a JavaScript array.
 ### 1. Clone the project (or copy files)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/anurag2169/zenqua-task.git
 ```
 
 ```bash
